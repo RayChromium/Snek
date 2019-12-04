@@ -1,8 +1,8 @@
 [Tile Size]
--1
+5
 
 [Board Dimensions]
-8 6
+30 20
 
 [Poison Amount]
 24
