@@ -1,5 +1,5 @@
 [Tile Size]
-5
+20
 
 [Board Dimensions]
 30 20
